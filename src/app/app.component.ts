@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Prueba con Ramas y Fusiones en Git';
+  title = 'Continuando con Angular!!';
+  curso = 'Angular & Spring';
+  profesor = 'Belmont';
 }
